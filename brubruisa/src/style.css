@@ -1,0 +1,10 @@
+:root{
+    --red: #D62828;
+    --dark:#000000;
+    --text:#FFFAF0;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
